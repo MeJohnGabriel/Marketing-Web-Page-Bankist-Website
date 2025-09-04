@@ -1,6 +1,6 @@
 # Marketing Web Page Bankist Website
 
-<a  href=" https://mejohngabriel.github.io/Marketing-Web-Page-Bankist-Website/">LINK DO PROJETO</a>
+<a href="https://mejohngabriel.github.io/Marketing-Web-Page-Bankist-Website/">LINK DO PROJETO</a>
 
 📢 Web Page de Marketing
 
